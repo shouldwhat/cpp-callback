@@ -55,21 +55,21 @@
             // 
             // columnHeader1
             // 
-            this.columnHeader1.Text = "이름";
+            this.columnHeader1.Text = "Name";
             // 
             // columnHeader2
             // 
-            this.columnHeader2.Text = "성별";
+            this.columnHeader2.Text = "Sex";
             this.columnHeader2.Width = 40;
             // 
             // columnHeader3
             // 
-            this.columnHeader3.Text = "나이";
+            this.columnHeader3.Text = "Age";
             this.columnHeader3.Width = 40;
             // 
             // columnHeader4
             // 
-            this.columnHeader4.Text = "전화번호";
+            this.columnHeader4.Text = "Phone";
             this.columnHeader4.Width = 120;
             // 
             // menuStrip1
@@ -87,14 +87,14 @@
             this.메뉴ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.유저추가ToolStripMenuItem});
             this.메뉴ToolStripMenuItem.Name = "메뉴ToolStripMenuItem";
-            this.메뉴ToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
-            this.메뉴ToolStripMenuItem.Text = "메뉴";
+            this.메뉴ToolStripMenuItem.Size = new System.Drawing.Size(50, 20);
+            this.메뉴ToolStripMenuItem.Text = "Menu";
             // 
             // 유저추가ToolStripMenuItem
             // 
             this.유저추가ToolStripMenuItem.Name = "유저추가ToolStripMenuItem";
             this.유저추가ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.유저추가ToolStripMenuItem.Text = "유저 추가";
+            this.유저추가ToolStripMenuItem.Text = "Regist User";
             this.유저추가ToolStripMenuItem.Click += new System.EventHandler(this.유저추가ToolStripMenuItem_Click);
             // 
             // MainForm

@@ -27,7 +27,7 @@ namespace AboutCallback
             /* excute callback method */
             AddUserEventManager.SINGLETON.onAddUserEvent(new AddUserEventArgs(name, sex, age, phone));
 
-            MessageBox.Show("유저를 등록하였습니다.");
+            MessageBox.Show("Regist User Successed.");
         }
     }
 }
