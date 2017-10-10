@@ -1,6 +1,6 @@
 # dotnet-callback
 
--. this project explain implements about callback process.
+-. this project explain implements about callback mechanism.
 
 -. Instructions
 
